@@ -22,3 +22,11 @@ The solutions in this repository are categorized by topic:
 - **Graph/**
 - **Greedy/**
 - **DynamicProgramming/**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
