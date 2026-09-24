@@ -42,4 +42,12 @@ The solutions in this repository are categorized by topic:
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
