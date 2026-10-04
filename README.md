@@ -57,6 +57,7 @@ The solutions in this repository are categorized by topic:
 | [0001-two-sum](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
