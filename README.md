@@ -30,6 +30,7 @@ The solutions in this repository are categorized by topic:
 | ------- |
 | [0009-palindrome-number](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
@@ -61,6 +62,7 @@ The solutions in this repository are categorized by topic:
 | [0001-two-sum](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -69,4 +71,17 @@ The solutions in this repository are categorized by topic:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
