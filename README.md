@@ -79,6 +79,7 @@ The solutions in this repository are categorized by topic:
 | [0283-move-zeroes](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0867-transpose-matrix](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -135,6 +136,7 @@ The solutions in this repository are categorized by topic:
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -155,5 +157,6 @@ The solutions in this repository are categorized by topic:
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
