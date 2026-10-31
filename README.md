@@ -80,6 +80,7 @@ The solutions in this repository are categorized by topic:
 | [0347-top-k-frequent-elements](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -151,4 +152,8 @@ The solutions in this repository are categorized by topic:
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
