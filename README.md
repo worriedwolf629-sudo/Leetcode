@@ -70,6 +70,7 @@ The solutions in this repository are categorized by topic:
 | [0031-next-permutation](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -139,6 +140,7 @@ The solutions in this repository are categorized by topic:
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
@@ -161,6 +163,7 @@ The solutions in this repository are categorized by topic:
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1672-richest-customer-wealth) |
