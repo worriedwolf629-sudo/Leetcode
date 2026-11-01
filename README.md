@@ -29,6 +29,7 @@ The solutions in this repository are categorized by topic:
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0509-fibonacci-number) |
@@ -67,6 +68,7 @@ The solutions in this repository are categorized by topic:
 | [0001-two-sum](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -157,6 +159,7 @@ The solutions in this repository are categorized by topic:
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
