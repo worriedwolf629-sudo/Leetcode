@@ -83,6 +83,7 @@ The solutions in this repository are categorized by topic:
 | [0485-max-consecutive-ones](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0867-transpose-matrix](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1572-matrix-diagonal-sum](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -161,5 +162,6 @@ The solutions in this repository are categorized by topic:
 | ------- |
 | [0048-rotate-image](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
