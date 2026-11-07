@@ -68,6 +68,7 @@ The solutions in this repository are categorized by topic:
 | [0001-two-sum](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0054-spiral-matrix) |
@@ -101,6 +102,7 @@ The solutions in this repository are categorized by topic:
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
