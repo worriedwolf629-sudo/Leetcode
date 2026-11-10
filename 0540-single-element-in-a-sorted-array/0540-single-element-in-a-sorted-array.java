@@ -22,6 +22,6 @@ The logic
             }
         }
 
-        return nums[s];
+        return nums[e];
     }
 }
