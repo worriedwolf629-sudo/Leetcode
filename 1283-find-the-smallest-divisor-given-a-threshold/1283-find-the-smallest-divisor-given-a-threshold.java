@@ -1,24 +1,33 @@
+
 class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
+
         int s = 1;
-        //s = 1, not 0, because a divisor cannot be zero.
         int e = 0;
-        int mid = 0;
+
+        // Find maximum element
         for (int i = 0; i < nums.length; i++) {
             e = Math.max(e, nums[i]);
         }
-        while (s < e) {
-            mid = s + (e - s) / 2;
+
+        while (s <= e) {
+
+            int mid = s + (e - s) / 2;
             int sum = 0;
+
+            // Calculate sum using mid as divisor
             for (int j = 0; j < nums.length; j++) {
-                sum += (nums[j] + mid - 1) / (mid);
+                sum += (nums[j] + mid - 1) / mid;
             }
+
             if (sum > threshold) {
                 s = mid + 1;
             } else {
-                e = mid;
+                e = mid - 1;
             }
         }
-        return e;
+
+        return s;
     }
-} //int ceil = (num + divisor - 1) / divisor;        
+}
+//int ceil = (num + divisor - 1) / divisor;        
