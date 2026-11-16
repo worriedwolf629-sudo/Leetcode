@@ -96,6 +96,7 @@ The solutions in this repository are categorized by topic:
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -125,6 +126,7 @@ The solutions in this repository are categorized by topic:
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
