@@ -55,6 +55,7 @@ The solutions in this repository are categorized by topic:
 | [0031-next-permutation](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -106,6 +107,7 @@ The solutions in this repository are categorized by topic:
 | ------- |
 | [0001-two-sum](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0268-missing-number) |
@@ -193,4 +195,12 @@ The solutions in this repository are categorized by topic:
 | [0867-transpose-matrix](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
