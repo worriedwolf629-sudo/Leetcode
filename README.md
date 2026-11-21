@@ -28,6 +28,7 @@ The solutions in this repository are categorized by topic:
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0189-rotate-array) |
@@ -43,6 +44,7 @@ The solutions in this repository are categorized by topic:
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -200,6 +202,7 @@ The solutions in this repository are categorized by topic:
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0141-linked-list-cycle) |
