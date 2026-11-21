@@ -43,6 +43,7 @@ The solutions in this repository are categorized by topic:
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -200,6 +201,7 @@ The solutions in this repository are categorized by topic:
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/worriedwolf629-sudo/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
